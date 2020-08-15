@@ -1,1 +1,1 @@
-[![DSRKafuU's Github Stats](https://github-readme-stats.vercel.app/api?username=amzrk2&count_private=true&show_icons=true&title_color=8aa2d3&icon_color=8aa2d3&text_color=9ea1a3&bg_color=ffffff)](https://github.com/amzrk2)
+[![DSRKafuU's Github Stats](https://github-readme-stats.vercel.app/api?username=amzrk2&count_private=true&show_icons=true&title_color=7793cc&icon_color=7793cc&text_color=595858&bg_color=ffffff)](https://github.com/amzrk2)
