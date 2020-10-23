@@ -9,3 +9,8 @@ Front end developer newbie, currently a college student at [NJUPT](https://www.n
 - [VS Code](https://code.visualstudio.com), always working with 2-space and [Prettier](https://prettier.io/)
 - Building [Skyline](https://github.com/amzrk2/skyline-overlay), [amzrk2-ng](https://github.com/amzrk2/amzrk2-ng) and more
 - Personal site: [amzrk2.cc](https://amzrk2.cc/)
+
+#### :bar_chart: Weekly development breakdown :bar_chart:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
