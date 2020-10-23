@@ -1,6 +1,6 @@
 ## 🍥 DSRKafuU 🍥「amzrk2」
 
-<img align="right" alt="DSRKafuU's Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=amzrk2&count_private=true&show_icons=true&title_color=7793cc&icon_color=7793cc&text_color=595858&bg_color=ffffff" />
+<img align="right" alt="DSRKafuU's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=amzrk2&count_private=true&show_icons=true&title_color=7793cc&icon_color=7793cc&text_color=595858&bg_color=ffffff" />
 
 Front end developer newbie, currently a college student at [NJUPT](https://www.njupt.edu.cn/).
 
