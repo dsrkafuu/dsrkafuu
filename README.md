@@ -13,4 +13,7 @@ Front end developer newbie, currently a college student at [NJUPT](https://www.n
 #### :bar_chart: Weekly development breakdown :bar_chart:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
