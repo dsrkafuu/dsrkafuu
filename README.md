@@ -7,8 +7,7 @@ Front end developer newbie, currently a college student at [NJUPT](https://www.n
 - Great fan of [Kyoto Animation](https://www.kyotoanimation.co.jp/)
 - JavaScript, [Vue](https://vuejs.org/), [SCSS](https://sass-lang.com/), and a little bit of [Node.js](https://nodejs.org/)
 - [VS Code](https://code.visualstudio.com), always working with 2-space and [Prettier](https://prettier.io/)
-- Building [Skyline](https://github.com/amzrk2/skyline-overlay), [DSRCA](https://github.com/amzrk2/dsrca) and more
-- Personal site: [amzrk2.cc](https://amzrk2.cc/)
+- Internet for people, not profit -- Mozilla
 
 #### :bar_chart: Weekly development breakdown :bar_chart:
 
