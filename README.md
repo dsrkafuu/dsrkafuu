@@ -13,10 +13,10 @@ Front end developer newbie, currently a college student at [NJUPT](https://www.n
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 38 mins  ████████████░░░░░░░░░░░░░   48.40 % 
-Vue.js       4 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.48 % 
-JSON         2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Markdown     1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Other        55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript   8 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   40.38 % 
+Vue.js       4 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
+JSON         3 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown     1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 <!--END_SECTION:waka-->
