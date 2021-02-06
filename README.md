@@ -7,7 +7,7 @@ Front end developer newbie, currently a college student at [NJUPT](https://www.n
 - Great fan of [Kyoto Animation](https://www.kyotoanimation.co.jp)
 - [Vue.js](https://vuejs.org), [React.js](https://reactjs.org), and a little bit of [Node.js](https://nodejs.org)
 - [VS Code](https://code.visualstudio.com), always working with 2-space and [Prettier](https://prettier.io)
-- Internet for people, not profit -- Mozilla
+- Learning [Vue.js v3](https://v3.vuejs.org) and [TypeScript](https://www.typescriptlang.org)
 
 #### :bar_chart: Weekly development breakdown :bar_chart:
 
