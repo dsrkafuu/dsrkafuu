@@ -1,4 +1,4 @@
-## 🍥 DSRKafuU 🍥「amzrk2」
+## 🍥 DSRKafuU 🍥
 
 <img align="right" alt="DSRKafuU's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=dsrkafuu&count_private=true&show_icons=true&title_color=7793cc&icon_color=7793cc&text_color=595858&bg_color=ffffff" />
 
