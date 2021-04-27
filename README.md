@@ -12,7 +12,7 @@ Front end developer, PC enthusiastic, anime & console gamer, college student at 
 **🔧 Hardware Info 🔧**
 
 - Ryzen 5 3600X + RTX3060, ROG GM501GS, MacBook Air M1
-- Varmilo VA87M Cherry MX Brown, Logi G703 Lightspeed
+- Varmilo VA87M Cherry MX Brown, Logitech G703 Lightspeed
 
 **:bar_chart: Weekly Development Breakdown :bar_chart:**
 
