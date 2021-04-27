@@ -1,6 +1,6 @@
 ## 🍥 DSRKafuU 🍥
 
-<img align="right" alt="DSRKafuU's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=dsrkafuu&count_private=true&show_icons=true&title_color=7793cc&icon_color=7793cc&text_color=595858&bg_color=ffffff" />
+<img align="right" alt="DSRKafuU's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrkafuu&hide_title=true&layout=compact&langs_count=8" />
 
 Front end developer newbie, currently a college student at [NJUPT](https://www.njupt.edu.cn).
 
