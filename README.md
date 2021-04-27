@@ -4,8 +4,8 @@ Front end developer, PC enthusiastic, anime & console gamer, college student at 
 
 <img align="right" alt="DSRKafuU's Common Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrkafuu&hide_title=true&layout=compact&langs_count=8" />
 
-- R5 3600X / i7-8750H, RTX3060 / GTX1070, D4 3200 32G / D4 2666 16G
-- MacBook Air M1, VA87M Cherry MX Brown, G703 Lightspeed
+- R5 3600X + RTX3060, ROG GM501GS, MacBook Air M1
+- VA87M Cherry MX Brown, G703 Lightspeed
 
 - Great fan of [Kyoto Animation](https://www.kyotoanimation.co.jp)
 - [Vue.js](https://vuejs.org), [React](https://reactjs.org), and a bit of [Node.js](https://nodejs.org)
