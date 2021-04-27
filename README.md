@@ -1,7 +1,6 @@
 Front end developer, PC enthusiastic, anime & console gamer, college student at [NJUPT](https://www.njupt.edu.cn).
 
 <img align="right" alt="DSRKafuU's Common Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrkafuu&hide_title=true&layout=compact&langs_count=8" />
-Front end developer, PC enthusiastic, anime & console gamer, college student at [NJUPT](https://www.njupt.edu.cn).
 
 **🍥 Personal Stats 🍥**
 
