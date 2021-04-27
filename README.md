@@ -4,15 +4,17 @@ Front end developer, PC enthusiastic, anime & console gamer, college student at 
 
 <img align="right" alt="DSRKafuU's Common Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrkafuu&hide_title=true&layout=compact&langs_count=8" />
 
-- R5 3600X + RTX3060, ROG GM501GS, MacBook Air M1
-- VA87M Cherry MX Brown, G703 Lightspeed
-
 - Great fan of [Kyoto Animation](https://www.kyotoanimation.co.jp)
 - [Vue.js](https://vuejs.org), [React](https://reactjs.org), and a bit of [Node.js](https://nodejs.org)
 - [VS Code](https://code.visualstudio.com), always working with 2-space and [Prettier](https://prettier.io)
 - Learning [Vue.js v3](https://v3.vuejs.org), [TypeScript](https://www.typescriptlang.org) and [Electron](https://www.electronjs.org)
 
-#### :bar_chart: Weekly development breakdown :bar_chart:
+**🔧 Hardware Info 🔧**
+
+- Ryzen 5 3600X + RTX3060, ROG GM501GS, MacBook Air M1
+- Varmilo VA87M Cherry MX Brown, Logi G703 Lightspeed
+
+**:bar_chart: Weekly Development Breakdown :bar_chart:**
 
 <!--START_SECTION:waka-->
 ```text
