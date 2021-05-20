@@ -23,10 +23,10 @@ Front end developer, PC enthusiastic, anime & console gamer, college student at 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
-JSON         4 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-SCSS         3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-HTML         3 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-PHP          2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+JavaScript   9 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   32.21 % 
+JSON         4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+SCSS         3 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+HTML         3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+PHP          2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 <!--END_SECTION:waka-->
