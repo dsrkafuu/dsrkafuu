@@ -7,8 +7,8 @@ Front end developer, PC enthusiastic, anime & console gamer, college student at 
 **Recent Stats**
 
 - Huge fan of [Kyoto Animation](https://www.kyotoanimation.co.jp)
-- [Vue.js](https://vuejs.org), [React](https://reactjs.org), and a bit of [Node.js](https://nodejs.org)
 - [VS Code](https://code.visualstudio.com), always working with 2-space and [Prettier](https://prettier.io)
+- Favourite stack [React](https://reactjs.org) + [MobX](https://mobx.js.org) + [Vite](https://vitejs.dev)
 - Learning [Vue.js v3](https://v3.vuejs.org), [TypeScript](https://www.typescriptlang.org) and [Electron](https://www.electronjs.org)
 
 **Hardware Info**
