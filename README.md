@@ -2,7 +2,7 @@
 
 > 中文版请见[我的个人博客](https://blog.dsrkafuu.su)！
 
-Front end developer, PC enthusiastic, anime fan & console gamer, studying at [NJUPT](https://www.njupt.edu.cn).
+Front end developer, PC enthusiastic, anime fan & console gamer.
 
 **Recent Stats**
 
