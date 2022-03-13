@@ -21,3 +21,7 @@ Web developer, PC enthusiastic, anime fan & console gamer.
 - ASUS ROG GM501GS, Apple MacBook Pro M1
 - LG 27GL850-B UltraGear Nano IPS
 - Varmilo VA87M Cherry MX Brown, Logitech G703 Lightspeed
+
+**Counter**
+
+<img height="100" src="https://count.dsrkafuu.net/dsrkafuu:home" alt="Moe Counter CF"  />
