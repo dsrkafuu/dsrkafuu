@@ -24,4 +24,6 @@ Web developer, PC enthusiastic, anime fan & console gamer.
 
 **Counter**
 
-<img height="100" src="https://count.dsrkafuu.net/dsrkafuu:home" alt="Moe Counter CF"  />
+<a href="https://github.com/dsrkafuu/moe-counter-cf#readme" target="_blank" rel="noopener">
+  <img height="100" src="https://count.dsrkafuu.net/dsrkafuu:home" alt="Moe Counter CF" />
+</a>
