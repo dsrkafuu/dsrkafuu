@@ -4,17 +4,11 @@
 
 Web developer, PC enthusiastic, anime fan & console gamer.
 
-**Credo**
-
-- Any application that can be written in JavaScript, will eventually be written in JavaScript.
-- 反正吃饱饭没事干、然后做些损人不利己的事情、一生里最大的乐趣。
-
 **Stats**
 
 - Huge fan of [Kyoto Animation](https://www.kyotoanimation.co.jp/) since [Lucky Star (2007)](https://www.kyotoanimation.co.jp/works/luckystar/)
 - [VS Code](https://code.visualstudio.com/), always working with 2-space and [Prettier](https://prettier.io/)
-- Favourite front end stack is [React](https://reactjs.org/) with [Vite](https://vitejs.dev/)
-- Learning [SolidJS](https://www.solidjs.com/), [Electron](https://www.electronjs.org/) and [C#](https://docs.microsoft.com/en-us/dotnet/)
+- Learning [SolidJS](https://www.solidjs.com/), [Electron](https://www.electronjs.org/) and [.NET (C#)](https://docs.microsoft.com/en-us/dotnet/)
 
 **Hardware**
 
