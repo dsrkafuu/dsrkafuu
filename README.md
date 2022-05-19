@@ -2,19 +2,23 @@
 
 **Personal**
 
-Web developer, PC enthusiastic, anime fan & console gamer.
+Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & console gamer.
+
+**Keywords**
+
+- JavaScript, TypeScript, HTML, CSS, React, Vue.js, Node.js, Electron, Hugo
 
 **Stats**
 
-- Huge fan of [Kyoto Animation](https://www.kyotoanimation.co.jp/) since [Lucky Star (2007)](https://www.kyotoanimation.co.jp/works/luckystar/)
-- [VS Code](https://code.visualstudio.com/), always working with 2-space and [Prettier](https://prettier.io/)
-- Learning [SolidJS](https://www.solidjs.com/), [Electron](https://www.electronjs.org/) and [.NET (C#)](https://docs.microsoft.com/en-us/dotnet/)
+- Huge fan of Kyoto Animation since Lucky Star (2007)
+- Prefer VS Code, always working with 2-space (in any language)
+- Using Windows, macOS, Manjaro and Ubuntu (WSL)
 
 **Hardware**
 
 - ASUS ROG GM501GS, Apple MacBook Pro M1
 - LG 27GL850-B UltraGear Nano IPS
-- Varmilo VA87M Cherry MX Brown, Logitech G703 Lightspeed
+- Varmilo VA87M Cherry MX Brown, Logitech G703 LS
 
 **Counter**
 
