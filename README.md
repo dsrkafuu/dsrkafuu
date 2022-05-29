@@ -1,5 +1,7 @@
 > 中文版请见[我的个人博客](https://blog.dsrkafuu.net)！
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dsrkafuu)
+
 **Personal**
 
 Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & console gamer.
