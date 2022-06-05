@@ -6,9 +6,11 @@
 
 Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & console gamer.
 
+I prefer React over Vue.js, SolidJS over Svelte, but I will not reject things solely for personal preference.
+
 **Keywords**
 
-- JavaScript, TypeScript, HTML, CSS, React, Vue.js, Node.js, Electron, Hugo
+JavaScript, TypeScript, HTML, CSS, React, Vue.js, SolidJS, Svelte, Node.js, Electron, Hugo
 
 **Stats**
 
