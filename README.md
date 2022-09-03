@@ -15,7 +15,8 @@ Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & con
 
 - Huge fan of Kyoto Animation since Lucky Star (2007)
 - Prefer VS Code, always working with 2-space (in any language)
-- Using Windows, macOS, Manjaro and Ubuntu (WSL)
+- Using Windows 11, macOS Monterey and Ubuntu 20.04 (WSL)
+- JSX/TSX are the best syntax for mordern web development
 
 **Hardware**
 
