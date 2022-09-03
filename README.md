@@ -8,7 +8,8 @@ Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & con
 
 **Keywords**
 
-JavaScript, TypeScript, HTML, CSS, React, Vue.js, SolidJS, Svelte, Node.js, Electron, Hugo
+- Tier 1 (Primary): JavaScript, TypeScript, HTML, CSS, React, Node.js
+- Tier 2 (Secondary): SolidJS, Svelte, Vue.js, Electron, Deno, Hugo
 
 **Stats**
 
@@ -18,7 +19,7 @@ JavaScript, TypeScript, HTML, CSS, React, Vue.js, SolidJS, Svelte, Node.js, Elec
 
 **Hardware**
 
-- ASUS ROG GM501GS, Apple MacBook Pro M1
+- i7-12700KF + RTX3080-10G, Apple MBP 16' M1 Pro
 - LG 27GL850-B UltraGear Nano IPS
 - Varmilo VA87M Cherry MX Brown, Logitech G703 LS
 
