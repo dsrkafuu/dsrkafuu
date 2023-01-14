@@ -20,7 +20,7 @@ Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & con
 
 **Hardware**
 
-- i7-13700KF + RTX4090-24G, Apple MBP 16' M1 Pro
+- Core i9-13900KF, DDR5 7200C38, GeForce RTX4090, MBP16 M1P
 - LG 27GL850-B UltraGear Nano IPS
 - Varmilo VA87M Cherry MX Brown, Logitech G703 LS
 
