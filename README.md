@@ -21,7 +21,7 @@ Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & con
 **Hardware**
 
 - Core i9-13900KF, DDR5 7200C38, GeForce RTX4090, MBP16 M1P
-- LG 27GL850-B UltraGear Nano IPS
+- LG 27GP95R UltraGear 4K Nano IPS
 - Varmilo VA87M Cherry MX Brown, Logitech G703 LS
 
 **Counter**
