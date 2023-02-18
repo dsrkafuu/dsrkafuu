@@ -1,4 +1,4 @@
-> 中文版请见[我的个人博客](https://blog.dsrkafuu.net)！
+> [Personal Blog (CN)](https://blog.dsrkafuu.net)
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dsrkafuu)
 
@@ -15,14 +15,14 @@ Web/Cross-platform developer, amateur designer, PC enthusiastic, anime fan & con
 
 - Huge fan of Kyoto Animation since Lucky Star (2007)
 - Prefer VS Code, always working with 2-space (in any language)
-- Using Windows 11, macOS Monterey and Ubuntu 20.04 (WSL)
+- Using Windows 11, macOS Ventura and Ubuntu 22.04
 - JSX/TSX are the best syntax for mordern web development
 
 **Hardware**
 
-- Core i9-13900KF, DDR5 7200C38, GeForce RTX4090, MBP16 M1P
+- i9-13900KF, D5-7600C38, RTX4090, MBP16 M1P
 - LG 27GP95R UltraGear 4K Nano IPS
-- Varmilo VA87M Cherry MX Brown, Logitech G703 LS
+- Varmilo VA87M Cherry MX Brown, Logitech G502X
 
 **Counter**
 
