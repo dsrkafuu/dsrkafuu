@@ -1,4 +1,4 @@
-> [Personal Blog (CN)](https://blog.dsrkafuu.net)
+> [Personal Site](https://dsrkafuu.net)
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dsrkafuu)
 
@@ -10,12 +10,6 @@ Web/Cross-platform developer.
 
 - Tier 1 (Primary): JavaScript, TypeScript, HTML, CSS, React, Node.js
 - Tier 2 (Secondary): SolidJS, Svelte, Vue.js, Electron
-
-**Stats**
-
-- Huge fan of Kyoto Animation since Lucky Star (2007)
-- Prefer VS Code, always working with 2-space (in any language)
-- JSX/TSX are the best syntax for mordern web development
 
 **Counter**
 
