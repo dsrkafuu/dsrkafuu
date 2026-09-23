@@ -15,4 +15,4 @@ No more keywords. I am a Developer at heart, mainly powered by JS/TS and buildin
 
 **Available for Hire**
 
-Open to remote opportunities and roles based in Hangzhou or Shanghai. Contact me at [dsrkafuu@gmail.com](mailto:dsrkafuu@gmail.com).
+Open to remote opportunities and roles based in Hangzhou/Shanghai/Canton/Shenzhen. Contact me at [dsrkafuu@gmail.com](mailto:dsrkafuu@gmail.com).
